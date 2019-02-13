@@ -1,0 +1,15 @@
+[package]
+
+name = "oracle_version"
+
+version = "0.1.0"
+
+authors = ["u36421"]
+
+edition = "2018"
+
+
+
+[dependencies]
+oracle = { version = "0.2.0", features = ["chrono"] }
+
